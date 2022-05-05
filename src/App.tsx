@@ -23,7 +23,7 @@ function App() {
     },
     {
       name: 'Pavel Jabliak',
-      url: 'https://lh3.googleusercontent.com/proxy/VdM5TF-3md0Q4rE2ozTfeJjI0WHYnpUxIxhMAZuBlgwLdmHg9QseZ2LNGQ73zjv-TN4fgyYF3jGkr9wOKE2bxRaCC-ws9z8',
+      url: 'https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80',
       age: 31,
       note: 'Buy a new car'
     },
